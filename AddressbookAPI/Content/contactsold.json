@@ -1,0 +1,20 @@
+{
+  "$schema": "./contacts-schema.json",
+  "contacts": [
+    {
+      "id": 0,
+      "fullname": "Adam Mir",
+      "email": "adammir97@gmail.com",
+      "mobile": "+447503176461"
+
+    },
+
+    {
+      "id": 1,
+      "fullname": "Adam Mir",
+      "email": "adammir97@gmail.com",
+      "mobile": "+447503176461"
+
+    }
+  ]
+}
