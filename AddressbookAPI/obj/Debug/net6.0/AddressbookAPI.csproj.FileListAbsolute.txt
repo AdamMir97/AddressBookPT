@@ -34,3 +34,4 @@ C:\Users\Adam\source\repos\AddressbookAPI\AddressbookAPI\bin\Debug\net6.0\Conten
 C:\Users\Adam\source\repos\AddressbookAPI\AddressbookAPI\bin\Debug\net6.0\Content\contacts.json
 C:\Users\Adam\source\repos\AddressbookAPI\AddressbookAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\Adam\source\repos\AddressbookAPI\AddressbookAPI\bin\Debug\net6.0\Content\contactsold.json
+C:\Users\Adam\source\repos\AddressbookAPI\AddressbookAPI\bin\Debug\net6.0\Newtonsoft.Json.Schema.dll

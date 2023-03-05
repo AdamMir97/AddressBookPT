@@ -2,22 +2,20 @@
   "$schema": "http://json-schema.org/draft-04/schema",
   "title": "Contact",
 
-  "type": "object",
-
   "properties": {
-    "id": {
+    "Id": {
       "type": "integer",
       "description": "A unique identifier for a contact."
     },
-    "fullname": {
+    "FullName": {
       "type": "string",
       "description": "The full name of a contact"
     },
-    "email": {
+    "Email": {
       "type": "string",
       "description": "The email address of a contact"
     },
-    "mobile": {
+    "Mobile": {
       "type": "string",
       "pattern": "^(\\+(\\d{1,3}))?(\\d{10,15})$",
       "description": "The mobile number of a contact- a string to allow country codes"
@@ -25,8 +23,8 @@
 
   },
   "required": [
-    "id",
-    "fullname",
-    "mobile"
+    "Id",
+    "FullName",
+    "Mobile"
   ]
 }
